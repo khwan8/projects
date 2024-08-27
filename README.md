@@ -3,4 +3,4 @@
 This GitHub page works on project page.
 
 # Project
-1. [drug_classification](https://github.com/micsupasun/kaggle/tree/main/drug_classification) is to develop a machine-learning model
+1. [NLP_TED Talk](https://github.com/khwan8/projects/blob/main/NLP_TED%20talks/MA331-Coursework.pdf) is to develop a machine-learning model
